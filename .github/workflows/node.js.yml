@@ -28,6 +28,3 @@ jobs:
         cache: 'npm'
     - run: npm ci
     - run: npm run build --if-present
-    - name: Change Directory
-      run: cd /home/dothanhtien/actions-runner/_work/try-github-actions/try-github-actions
-    - run: pm2 restart 0
