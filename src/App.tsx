@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn CD with Github Actions
+          Learn CD with Github Actions - Update
         </a>
       </header>
     </div>
